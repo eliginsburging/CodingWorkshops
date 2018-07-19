@@ -32,7 +32,7 @@ For this project we will be focus on writing tests for a given problem and use
 travis-ci for running the tests automatically everytime code is checked into Github.
 
 **Objectives**:
-In this project we will explore
+ In this project we will explore
 
 - Introduction to unit testing with pytest
 - How to setup continuous integration with Github and Travis-CI
